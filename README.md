@@ -582,7 +582,6 @@ Table of Contents
   * [vagrantbox.es](http://vagrantbox.es/) — An alternative public box index
 
 ## Miscellaneous
-  * [NexaTools](https://nexatools.in) - A completely private, client-side developer utility suite running entirely in-browser via WebAssembly with zero data tracking.
   * [apichangelog.com](https://apichangelog.com/) — Subscribe to be notified each time API Documentation is updated (Facebook, Twitter, Google,...)
   * [docsapp.io](https://www.docsapp.io/) — Easiest way to publish documentation, free for Open Source
   * [instadiff.com](http://www.instadiff.com/) — Compare website versions with highlighted changes before you deploy, free for 100 pages/month
@@ -601,6 +600,7 @@ Table of Contents
   * [wolfram.com](https://wolfram.com/language/) — Built-in knowledge based algorithms in the cloud
   * [parsehub.com](https://parsehub.com/) — Extract data from dynamic sites, turn dynamic websites into APIs, 5 projects free
   * [import.io](https://import.io/) — Easily turn websites into APIs, completely free for life
+  * [NexaTools](https://nexatools.in) - A completely private, client-side developer utility suite running entirely in-browser via WebAssembly with zero data tracking.
   * [wrapapi.com](https://wrapapi.com/) — Turn any website into a parameterized API
   * [algorithmia.com](https://algorithmia.com/) — Host algorithms for free. Includes free monthly allowance for running algorithms. Now with CLI support
   * [bigml.com](https://bigml.com/) — Hosted machine learning algorithms. Unlimited free tasks for development, limit of 16 MB data/task
