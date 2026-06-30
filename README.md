@@ -582,6 +582,7 @@ Table of Contents
   * [vagrantbox.es](http://vagrantbox.es/) — An alternative public box index
 
 ## Miscellaneous
+  * [NexaTools](https://nexatools.in) - A completely private, client-side developer utility suite running entirely in-browser via WebAssembly with zero data tracking.
   * [apichangelog.com](https://apichangelog.com/) — Subscribe to be notified each time API Documentation is updated (Facebook, Twitter, Google,...)
   * [docsapp.io](https://www.docsapp.io/) — Easiest way to publish documentation, free for Open Source
   * [instadiff.com](http://www.instadiff.com/) — Compare website versions with highlighted changes before you deploy, free for 100 pages/month
@@ -594,7 +595,6 @@ Table of Contents
   * [formaholic.com](https://formaholic.com) — Simple form endpoint. Perfect for static sites
 
 ## APIs, Data and ML
-
   * [dreamfactory.com](http://dreamfactory.com/) — Open source REST API backend for mobile, web, and IoT applications. Hook up any SQL/NoSQL database, file storage system, or external service and it instantly creates a comprehensive REST API platform with live documentation, user management,...
   * [monkeylearn.com](http://monkeylearn.com/) — Text analysis with machine learning, free 100,000 queries/month
   * [wit.ai](https://wit.ai/) — NLP for developers
